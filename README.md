@@ -51,3 +51,5 @@ On Windows:
 Just leave `.cmd` away under linux.
 
 Creates a `.js` file in the test folder with a test stub
+
+[Smart Contract Testing](https://medium.com/taipei-ethereum-meetup/smart-contract-unit-testing-use-erc20-token-contract-as-an-example-d150c2700834)
