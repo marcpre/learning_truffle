@@ -41,3 +41,13 @@ or
 ## Revert Migration
 
 `truffle migrate --reset`
+
+## Create Test
+
+On Windows:
+
+`truffle.cmd create test testtesttest`
+
+Just leave `.cmd` away under linux.
+
+Creates a `.js` file in the test folder with a test stub
